@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "rg-git" {
   name     = "rg-git"
-  location = "central India"
+  location = "central India" 
 }
 
 # resource "azurerm_resource_group" "rg-git2" {
