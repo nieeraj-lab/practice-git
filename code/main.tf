@@ -8,3 +8,4 @@ resource "azurerm_resource_group" "rg-git2" {
   location = "central India"
 }
  #added story "Pyar Diwana Hota hai"
+ #"Mastana hota hai"
