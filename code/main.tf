@@ -7,4 +7,8 @@ resource "azurerm_resource_group" "rg-git2" {
   name     = "rg-git2"
   location = "central India"
 }
- #added story "Pyar Diwana Hota hai"
+
+resource "azurerm_resource_group" "rg-git3" {
+  name     = "rg-git201-updated"
+  location = "central India"
+}
