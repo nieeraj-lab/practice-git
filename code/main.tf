@@ -9,6 +9,6 @@ resource "azurerm_resource_group" "rg-git2" {
 }
 
 resource "azurerm_resource_group" "rg-git3" {
-  name     = "rg-git201"
+  name     = "rg-git201-updated"
   location = "central India"
 }
